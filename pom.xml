@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.sportyshoes</groupId>
+  <artifactId>01-sportyshoes-app</artifactId>
+  <version>1.0-RELEASE</version>
+  <name>01-sportyshoes-app</name>
+  <description>Sporty Shoes application with Maven and Spring</description>
+</project>
